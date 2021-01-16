@@ -3,7 +3,7 @@ package Array;
 import java.util.Arrays;
 import java.util.List;
 
-public class Simple {
+public class Sample {
     public static void main(String[] args) {
         Model model1 = new Model("a");
         Model model2 = new Model("b");
@@ -14,7 +14,6 @@ public class Simple {
 }
 
 final class Model {
-
     String key;
 
     Model(String key) {
