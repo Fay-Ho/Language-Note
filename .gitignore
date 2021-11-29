@@ -24,7 +24,4 @@ hs_err_pid*
 
 # idea file
 .idea
-Language-Note.iml
-
-Java/.idea
-Java/Java.iml
+*.iml
