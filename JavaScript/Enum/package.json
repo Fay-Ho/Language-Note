@@ -1,0 +1,12 @@
+{
+  "name": "enum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sample1": "node ./src/sample1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
